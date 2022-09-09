@@ -1,0 +1,17 @@
+.fa {
+    font-size: 100px;
+    color: #fff;
+    /* background-color:coral; */
+    border-radius: 16px;
+    padding: 20px;
+    width: 130px;
+    text-align: center;
+}
+
+.fa-twitter {
+    background-color: #4267B2;
+}
+
+.fa-facebook-f {
+    background-color: #4267B2;
+}
